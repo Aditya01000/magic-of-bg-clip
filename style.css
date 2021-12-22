@@ -1,6 +1,4 @@
-*{
-    
-}
+
 .image-for-bg-clip{
     font-family: 'raleway' , sans-serif;
     font-weight: bolder;
@@ -17,6 +15,17 @@
     font-size: 8em;
     text-align: center;
     background-image: url(./gif\ of\ moving\ many\ colors.gif);
+    background-size: contain;
+    -webkit-background-clip:text;
+    color: transparent;
+}
+.linear-gradient{
+    margin-top: 80px;
+    font-family: 'raleway' , sans-serif;
+    font-weight: bolder;
+    font-size: 8em;
+    text-align: center;
+    background:linear-gradient(blue, yellow, rgb(255, 5, 255));
     background-size: contain;
     -webkit-background-clip:text;
     color: transparent;
