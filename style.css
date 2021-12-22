@@ -1,0 +1,11 @@
+
+.clip{
+    font-family: 'raleway' , sans-serif;
+    font-weight: bolder;
+    font-size: 8em;
+    text-align: center;
+    background-image: url(./galaxy.jpg);
+    background-size: contain;
+    -webkit-background-clip:text;
+    color: transparent;
+}
