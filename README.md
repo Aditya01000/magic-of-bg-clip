@@ -6,7 +6,7 @@ This project is about how to use `background-clip` CSS property to add images as
 While adding `background-clip` property you should not that some browsers don't use render this property so in order to see this propery in action on chrome or mozilla or whatever browser you use, you have to use **vendor prefixes** so that this CSS property works properly.
 Here's the output of my project and you can also view this project through hosting websites, you can check more information about it in **FAQ** section!
 
-![output of project](![unknown](https://user-images.githubusercontent.com/95962046/147384272-d08dfdfd-a0ec-4695-a277-8f7165494883.png)
+![unknown](https://user-images.githubusercontent.com/95962046/147384272-d08dfdfd-a0ec-4695-a277-8f7165494883.png)
  ![Alt Text](https://media.giphy.com/media/ezloJa0SXeryC7I0o4/giphy.gif) 
  
  ## FAQ
